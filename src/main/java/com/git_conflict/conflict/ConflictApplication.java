@@ -7,7 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ConflictApplication {
 
 	public static void main(String[] args) {
-		int x =100;
+
+		
+		String x ="sandip";
+		int y =100;
+
 		SpringApplication.run(ConflictApplication.class, args);
 	}
 
