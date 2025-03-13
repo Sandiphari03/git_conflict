@@ -11,7 +11,7 @@ public class ConflictApplication {
 		
 		String x ="sandip";
 		int y =100;
-
+		int z =200;
 		SpringApplication.run(ConflictApplication.class, args);
 	}
 
