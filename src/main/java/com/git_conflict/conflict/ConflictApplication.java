@@ -11,7 +11,7 @@ public class ConflictApplication {
 		
 		String x ="sandip";
 		int y =100;
-
+		boolean isPresent =false;
 		SpringApplication.run(ConflictApplication.class, args);
 	}
 
